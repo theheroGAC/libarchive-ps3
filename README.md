@@ -6,7 +6,7 @@
 [![Hardware Verified](https://img.shields.io/badge/Hardware-100%25%20Verified%20on%20Real%20PS3-brightgreen.svg?style=flat-square)](https://github.com)
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg?style=flat-square)](LICENSE)
 
-A complete, production-ready port of **libarchive 3.8.11** and its underlying compression backends for the Sony **PlayStation 3**, targeting the open-source **PSL1GHT v2** toolchain (`powerpc64-ps3-elf`).
+A complete, production-ready port of **libarchive 3.8.11** and its underlying compression backends for the Sony **PlayStation 3**, targeting the open-source **PSL1GHT v2** toolchain (`powerpc64-ps3-elf`). (port by theheroGAC)
 
 This port includes full static libraries, headers, pkg-config configuration, and an interactive **Real-Hardware Verification Self-Test Homebrew** featuring on-screen graphics, animated progress bar, in-memory stream decompression, and physical disk extraction tests.
 
