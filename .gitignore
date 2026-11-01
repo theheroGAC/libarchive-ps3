@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.elf
+*.fake.self
+*.velf
+*.map
+*.log
+*.tmp
+build/
+.cache/
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Windows / Editor
+.vscode/
+.idea/
